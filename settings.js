@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] 
-global.pemilik = ['94715166712'] //pemilik nomor
-global.premium = ['94715166712'] //premium number
-global.pengguna = 'Nima' //pengguna
-global.botnma = '𝐋𝐨𝐥𝐢 𝐁𝐨𝐭' //botnama,botname
-global.ownernma = 'nima' //ownernama,ownername
-global.packname = '© ɴɪᴍᴀ ᴇᴅɪᴛɪᴏɴ' // packname
-global.author = 'ɴɪᴍᴀ ᴏғᴄ ɢʀᴏᴜᴘ ʙᴏᴛ' //authorname
+global.owner = ['94704209801'] 
+global.pemilik = ['94704209801'] //pemilik nomor
+global.premium = ['94704209801'] //premium number
+global.pengguna = '𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀' //pengguna
+global.botnma = '𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀 𝐁𝐎𝐓' //botnama,botname
+global.ownernma = '𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀' //ownernama,ownername
+global.packname = '©𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀' // packname
+global.author = '𝐏𝐑𝐀𝐁𝐎𝐃𝐇𝐀 𝐏𝐑𝐀𝐒𝐇𝐀𝐃 𝐌𝐀𝐋𝐈𝐍𝐆𝐀' //authorname
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
